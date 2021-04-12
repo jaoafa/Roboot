@@ -1,0 +1,7 @@
+name: Roboot
+version: ${project.version}
+main: com.jaoafa.roboot.Main
+api-version: 1.16
+authors: [ mine_book000 ]
+description: Connect server-chat and Discord
+website: https://jaoafa.com
